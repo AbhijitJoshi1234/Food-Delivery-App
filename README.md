@@ -8,6 +8,4 @@ Welcome to our Food Delivery Web Application! This web application allows users 
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
-- Payment Gateway: Stripe API
-- Real-time Updates: Socket.io
 - Version Control: Git, GitHub
